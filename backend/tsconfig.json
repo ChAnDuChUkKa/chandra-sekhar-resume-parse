@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "target": "ES6",
+    "module": "CommonJS",  // or "ESNext" if using `"type": "module"`
+    "rootDir": "./src",
+    "outDir": "./dist",
+    "esModuleInterop": true,
+    "strict": true,
+    "skipLibCheck": true
+  }
+}
